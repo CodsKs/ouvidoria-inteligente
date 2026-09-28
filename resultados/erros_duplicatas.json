@@ -1,0 +1,18 @@
+[
+  {
+    "tipo": "Falso negativo",
+    "id_a": "M003",
+    "id_b": "M017",
+    "score": 0.7609680891036987,
+    "texto_a": "Há um buraco enorme na Av. Brasil, perto do número 100, sentido centro. A cratera causa acidentes e precisa de reparo.",
+    "texto_b": "O asfalto está todo esburacado na avenida principal, chamada Av. Brasil, junto ao número 100 no sentido centro. O buraco provoca acidentes."
+  },
+  {
+    "tipo": "Falso negativo",
+    "id_a": "M010",
+    "id_b": "M030",
+    "score": 0.844573438167572,
+    "texto_a": "O semáforo do cruzamento da Rua Norte com a Avenida Central está apagado desde ontem, causando confusão no trânsito.",
+    "texto_b": "O sinal de trânsito entre a Avenida Central e a Rua Norte não acende desde ontem. Os veículos atravessam sem controle."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-08-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua das Flores está quebrada em frente ao número 20. Pessoas com cadeira de rodas precisam circular pela pista."
+  },
+  {
+    "id": "M002",
+    "data": "2026-08-02",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há lixo acumulado no terreno da Rua do Sol, ao lado do número 45. O descarte atrai moscas e produz mau cheiro."
+  },
+  {
+    "id": "M003",
+    "data": "2026-08-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há um buraco enorme na Av. Brasil, perto do número 100, sentido centro. A cratera causa acidentes e precisa de reparo."
+  },
+  {
+    "id": "M004",
+    "data": "2026-08-04",
+    "categoria_oficial": "educação",
+    "texto": "A Escola Municipal Aurora está sem professor de matemática no oitavo ano há três semanas. Pedimos reposição das aulas."
+  },
+  {
+    "id": "M005",
+    "data": "2026-08-05",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores relatam assaltos no ponto de ônibus da Rua das Acácias à noite. Solicitamos patrulhamento no local."
+  },
+  {
+    "id": "M006",
+    "data": "2026-08-06",
+    "categoria_oficial": "saúde",
+    "texto": "A farmácia do posto Vila Nova está sem o medicamento de uso contínuo que retiro mensalmente. Preciso de previsão de reposição."
+  },
+  {
+    "id": "M007",
+    "data": "2026-08-07",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O córrego atrás do bairro Esperança recebe esgoto com odor intenso. A água ficou escura e há peixes mortos."
+  },
+  {
+    "id": "M008",
+    "data": "2026-08-08",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do Jardim União está sem médico nesta semana. As consultas foram canceladas e não há atendimento no PSF."
+  },
+  {
+    "id": "M009",
+    "data": "2026-08-09",
+    "categoria_oficial": "educação",
+    "texto": "O telhado da Escola Primavera apresenta goteiras na sala do segundo ano sempre que chove. Os cadernos ficam molhados."
+  },
+  {
+    "id": "M010",
+    "data": "2026-08-10",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O semáforo do cruzamento da Rua Norte com a Avenida Central está apagado desde ontem, causando confusão no trânsito."
+  },
+  {
+    "id": "M011",
+    "data": "2026-08-11",
+    "categoria_oficial": "segurança",
+    "texto": "Um bar na Rua da Feira mantém música muito alta depois da meia-noite. Os moradores não conseguem dormir durante a semana."
+  },
+  {
+    "id": "M012",
+    "data": "2026-08-12",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A coleta de lixo deixou de passar na Rua do Porto na segunda e na quinta. Sacos estão se acumulando na frente das casas."
+  },
+  {
+    "id": "M013",
+    "data": "2026-08-13",
+    "categoria_oficial": "educação",
+    "texto": "O ônibus escolar da zona rural está chegando com uma hora de atraso. As crianças perdem a primeira aula todos os dias."
+  },
+  {
+    "id": "M014",
+    "data": "2026-08-14",
+    "categoria_oficial": "saúde",
+    "texto": "Estou aguardando marcação de consulta de oftalmologia no centro de especialidades há quatro meses, sem previsão de atendimento."
+  },
+  {
+    "id": "M015",
+    "data": "2026-08-15",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A ponte de madeira do bairro Ribeira apresenta tábuas soltas e corrimão quebrado. Há risco para quem atravessa a pé."
+  },
+  {
+    "id": "M016",
+    "data": "2026-08-16",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O terreno ao lado da casa 45 na Rua do Sol virou depósito de resíduos. Há cheiro ruim e muitas moscas; peço limpeza."
+  },
+  {
+    "id": "M017",
+    "data": "2026-08-17",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal, chamada Av. Brasil, junto ao número 100 no sentido centro. O buraco provoca acidentes."
+  },
+  {
+    "id": "M018",
+    "data": "2026-08-18",
+    "categoria_oficial": "segurança",
+    "texto": "A câmera de segurança da praça da Estação está quebrada. A população solicita manutenção do equipamento de vigilância."
+  },
+  {
+    "id": "M019",
+    "data": "2026-08-19",
+    "categoria_oficial": "educação",
+    "texto": "Faltam livros didáticos para a turma do quinto ano da Escola do Parque. Vários alunos precisam compartilhar o mesmo exemplar."
+  },
+  {
+    "id": "M020",
+    "data": "2026-08-20",
+    "categoria_oficial": "saúde",
+    "texto": "A recepção da unidade Santa Clara não oferece assentos suficientes para idosos. Muitas pessoas aguardam em pé por horas."
+  },
+  {
+    "id": "M021",
+    "data": "2026-08-21",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma árvore na Rua das Palmeiras tem galhos secos sobre os fios. Solicitamos vistoria e poda antes de uma queda."
+  },
+  {
+    "id": "M022",
+    "data": "2026-08-22",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF do Jardim União nesta semana porque não há médico. Todas as consultas do posto foram desmarcadas."
+  },
+  {
+    "id": "M023",
+    "data": "2026-08-23",
+    "categoria_oficial": "segurança",
+    "texto": "Pedestres são ameaçados por motociclistas que passam em alta velocidade pela área exclusiva de caminhada do parque municipal."
+  },
+  {
+    "id": "M024",
+    "data": "2026-08-24",
+    "categoria_oficial": "educação",
+    "texto": "Há três semanas os alunos do oitavo ano da Escola Municipal Aurora não têm aula de matemática por falta de docente. Pedimos substituição."
+  },
+  {
+    "id": "M025",
+    "data": "2026-08-25",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O bueiro da Rua Leste está entupido e provoca alagamento em frente ao mercado quando chove. A água invade lojas próximas."
+  },
+  {
+    "id": "M026",
+    "data": "2026-08-26",
+    "categoria_oficial": "saúde",
+    "texto": "O elevador do centro de reabilitação está parado. Pacientes com mobilidade reduzida não conseguem acessar as salas do andar superior."
+  },
+  {
+    "id": "M027",
+    "data": "2026-08-27",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A praça do Lago está com capim alto e resíduos de poda abandonados. Precisamos de manutenção nas áreas de convivência."
+  },
+  {
+    "id": "M028",
+    "data": "2026-08-28",
+    "categoria_oficial": "segurança",
+    "texto": "O posto policial do bairro Montanha fica fechado no período noturno. Os moradores precisam se deslocar longe para registrar ocorrências."
+  },
+  {
+    "id": "M029",
+    "data": "2026-08-01",
+    "categoria_oficial": "educação",
+    "texto": "A merenda da creche Pequeno Mundo foi suspensa em dois dias desta semana. As famílias não receberam explicação sobre o abastecimento."
+  },
+  {
+    "id": "M030",
+    "data": "2026-08-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O sinal de trânsito entre a Avenida Central e a Rua Norte não acende desde ontem. Os veículos atravessam sem controle."
+  },
+  {
+    "id": "M031",
+    "data": "2026-08-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há uma lâmpada queimada na praça da Liberdade perto do parquinho. O local fica totalmente escuro depois do pôr do sol."
+  },
+  {
+    "id": "M032",
+    "data": "2026-08-04",
+    "categoria_oficial": "saúde",
+    "texto": "A vacinação infantil no posto São José ocorre apenas pela manhã. Solicitamos ampliação de horários para responsáveis que trabalham."
+  },
+  {
+    "id": "M033",
+    "data": "2026-08-05",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Um caminhão despejou entulho na margem do rio junto à estrada velha. O material está bloqueando a passagem de água."
+  },
+  {
+    "id": "M034",
+    "data": "2026-08-06",
+    "categoria_oficial": "segurança",
+    "texto": "O bar da Rua da Feira toca som em volume excessivo após meia-noite durante a semana. O ruído impede o descanso dos vizinhos."
+  },
+  {
+    "id": "M035",
+    "data": "2026-08-07",
+    "categoria_oficial": "educação",
+    "texto": "A quadra da Escola Horizonte está com traves enferrujadas e piso solto. As aulas de educação física foram interrompidas."
+  },
+  {
+    "id": "M036",
+    "data": "2026-08-08",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A Rua das Mangueiras apresenta problemas de drenagem há meses. Quando chove, a água se acumula no trecho em frente à padaria e impede a passagem de pedestres. Os moradores já tentaram desobstruir a sarjeta, mas o bueiro continua cheio de areia. A correnteza leva lixo para dentro das casas mais baixas e danifica móveis. Uma moradora com dificuldade de locomoção depende dos vizinhos para sair de casa. Solicitamos uma vistoria da equipe técnica, limpeza da rede e avaliação do nivelamento do pavimento. Também pedimos sinalização provisória enquanto o serviço não for realizado, pois motoristas não percebem a profundidade da água e passam em velocidade elevada."
+  },
+  {
+    "id": "M037",
+    "data": "2026-08-09",
+    "categoria_oficial": "saúde",
+    "texto": "A unidade de saúde do bairro Floresta enfrenta longas filas para agendamento. Cheguei antes da abertura e já havia dezenas de pessoas esperando na calçada, sem cobertura contra a chuva. Ao entrar, fui informado de que as vagas para avaliação estavam esgotadas. Outras pessoas relataram que voltaram várias vezes sem conseguir atendimento. A equipe da recepção tenta orientar os moradores, mas não existe informação clara sobre os dias de abertura de agenda. Solicito organização do fluxo, divulgação dos horários e possibilidade de agendamento por telefone. Também seria importante garantir um local de espera acessível para pessoas idosas e com deficiência, que não conseguem permanecer em pé por muito tempo."
+  },
+  {
+    "id": "M038",
+    "data": "2026-08-10",
+    "categoria_oficial": "educação",
+    "texto": "Na Escola Municipal das Águas, a biblioteca está fechada desde o início do semestre. Os estudantes não conseguem retirar livros e os professores precisam levar materiais próprios para as atividades de leitura. A direção informou que há infiltração no teto e que parte das estantes precisou ser removida. Nos dias de chuva, a água alcança as caixas onde foram guardados os exemplares. Os responsáveis temem a perda do acervo e a interrupção prolongada dos projetos pedagógicos. Solicitamos reparo da cobertura e um espaço provisório seguro para os livros. Pedimos ainda um cronograma de reabertura e comunicação às famílias sobre como serão retomadas as atividades, principalmente para as turmas em alfabetização."
+  },
+  {
+    "id": "M039",
+    "data": "2026-08-11",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Os moradores próximos ao riacho do Cedro perceberam mudanças na água nas últimas semanas. O líquido apresenta espuma e cheiro forte no trecho atrás do galpão desativado. Durante a tarde, o odor chega às casas e impede que as janelas fiquem abertas. Vimos resíduos acumulados nas margens e animais evitando o local onde costumavam beber água. Não sabemos a origem do despejo e pedimos que a fiscalização investigue antes de atribuir responsabilidade a qualquer estabelecimento. Solicitamos coleta de amostras, limpeza das margens e orientação à comunidade. Também é necessário instalar avisos sobre as condições do local e informar quais medidas serão adotadas para recuperar o curso de água e impedir novos descartes."
+  },
+  {
+    "id": "M040",
+    "data": "2026-08-12",
+    "categoria_oficial": "segurança",
+    "texto": "No entorno do terminal do bairro Campo Verde, os usuários relatam sensação de insegurança no retorno do trabalho. Há trechos sem movimento, pontos com pouca iluminação e relatos de abordagem para roubo de celulares. Uma passageira informou que procurou ajuda, mas não encontrou equipe de vigilância no horário. O problema afeta especialmente quem precisa esperar a última linha de ônibus. Solicitamos avaliação do patrulhamento, presença de agentes nos horários de maior espera e melhoria da iluminação dos acessos. Pedimos também um canal visível para comunicar ocorrências. A instalação de câmeras deve ser acompanhada de manutenção e de resposta às chamadas, para que as medidas realmente auxiliem os passageiros."
+  }
+]
