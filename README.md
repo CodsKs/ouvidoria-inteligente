@@ -14,8 +14,6 @@ python -m venv .venv
 
 No Linux/macOS, use `.venv/bin/python`. Com o ambiente ativado, o comando do enunciado funciona: `streamlit run app_ouvidoria.py`.
 
-O primeiro uso de cada modelo exige internet para baixar pesos do Hugging Face. Não há API paga. Ambos os modelos são multilíngues reais, sem substituição por vetores aleatórios. Caches e modelos não devem ir para o Git.
-
 ## Notebooks e arquivos
 
 Abra os notebooks no VS Code ou Jupyter com o ambiente Python criado acima e execute a partir desta pasta. Eles já incluem saídas da validação.
